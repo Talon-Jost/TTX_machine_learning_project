@@ -11,7 +11,7 @@ library(LDM)
 library(qiime2R)
 library(dplyr)
 library(tibble)
-library(ape)
+# library(ape)
 library(mgcv)
 library(tidyr)
 
