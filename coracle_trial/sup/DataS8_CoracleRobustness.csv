@@ -1,0 +1,12 @@
+"# File S8. Robustness of Coracle results based on obtained Spearman rank corre-lation and Pearson correlation coefficients from 100 consecutive runs at the family and at the corresponding ASV level (File S3, File S5) considering the top10, top20, top30, top50, and all features.",,
+Families or ASVs (of top5 families) considered for 100 Coracle runs,Spearmans rank correlation coefficient,Pearsons correlation coefficient
+top10 families,0.9601,0.9946
+top20 families,0.9653,0.9954
+top30 families,0.9438,0.9958
+top50 families,0.9341,0.996
+all families,0.804,0.9964
+top10 ASVs Top5 fam,0.9346,0.9812
+top20 ASVs Top5 fam,0.9754,0.9883
+top30 ASVs Top5 fam,0.9726,0.9901
+top50 ASVs Top5 fam,0.9619,0.9914
+all ASVs Top5 fam,0.8262,0.9922
